@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
 
 :root {
-  --bg-color: #bd1c7c;
+  --bg-color: #386fa4;
 }
 
 * {
@@ -21,7 +21,7 @@ body {
 
 .container {
   width: 850px;
-  background: #0c9a85;
+  background: #fff;
   display: flex;
   align-items: flex-end;
   gap: 70px;
